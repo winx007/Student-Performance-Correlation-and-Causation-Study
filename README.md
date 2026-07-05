@@ -38,4 +38,4 @@ This repository contains the Week 1 Project for Data Science Internship (Name: M
 - [x] Clean dataset
 - [x] Interactive Dashboard (Tkinter/CustomTkinter)
 - [x] GitHub repository structure
-- [x] Project Report (`report.md` -> export to PDF)
+- [x] Project Report
